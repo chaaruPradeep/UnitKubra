@@ -1,0 +1,100 @@
+04-May-2021-12:28:22 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+04-May-2021-12:28:48 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+04-May-2021-12:28:56 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+04-May-2021-12:28:56 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+04-May-2021-12:28:56 [UnitKubra.PageObject.Enbridge] [INFO] [_DatatablePresent] - Datatable is present
+04-May-2021-12:28:56 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+04-May-2021-12:28:58 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+04-May-2021-13:03:33 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+04-May-2021-13:04:26 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+04-May-2021-13:04:34 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+04-May-2021-13:04:34 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+04-May-2021-13:05:14 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+04-May-2021-13:05:14 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+04-May-2021-13:05:17 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+04-May-2021-13:48:12 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+04-May-2021-13:48:58 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+04-May-2021-13:49:06 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+04-May-2021-13:49:07 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+04-May-2021-13:49:47 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+04-May-2021-13:49:47 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+04-May-2021-13:49:49 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+04-May-2021-13:52:42 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+04-May-2021-21:53:41 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+04-May-2021-21:54:05 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+04-May-2021-21:54:13 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+04-May-2021-21:54:14 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+04-May-2021-21:54:54 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+04-May-2021-21:54:54 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+04-May-2021-21:54:56 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+04-May-2021-22:52:41 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+04-May-2021-22:53:12 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+04-May-2021-22:53:21 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+04-May-2021-22:53:21 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+04-May-2021-22:54:01 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+04-May-2021-22:54:01 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+04-May-2021-22:54:03 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+04-May-2021-22:56:36 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+04-May-2021-22:56:59 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-00:16:42 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-00:17:15 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-00:17:23 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+05-May-2021-00:17:23 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+05-May-2021-00:18:03 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+05-May-2021-00:18:04 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+05-May-2021-00:18:06 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+05-May-2021-00:39:31 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-00:39:57 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-00:40:05 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+05-May-2021-00:40:05 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+05-May-2021-00:40:45 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+05-May-2021-00:40:45 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+05-May-2021-00:40:47 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+05-May-2021-00:45:04 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-00:45:43 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-00:54:06 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-00:54:27 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-00:54:36 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+05-May-2021-00:54:36 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+05-May-2021-00:55:16 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+05-May-2021-00:55:16 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+05-May-2021-00:55:18 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+05-May-2021-01:02:03 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-01:02:29 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-01:44:20 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-01:44:52 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-01:45:00 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+05-May-2021-01:45:00 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+05-May-2021-01:45:40 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+05-May-2021-01:45:40 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+05-May-2021-01:45:42 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+05-May-2021-13:17:28 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-13:17:52 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-13:18:01 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+05-May-2021-13:18:01 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+05-May-2021-13:18:41 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+05-May-2021-13:18:42 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+05-May-2021-13:18:44 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+05-May-2021-15:52:25 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-15:52:44 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-15:52:54 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+05-May-2021-15:52:55 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+05-May-2021-15:53:35 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+05-May-2021-15:53:35 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+05-May-2021-15:53:37 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+05-May-2021-15:55:18 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-15:55:36 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-23:39:44 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-23:40:03 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-23:40:11 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+05-May-2021-23:40:12 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+05-May-2021-23:40:52 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+05-May-2021-23:40:52 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+05-May-2021-23:40:54 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
+05-May-2021-23:57:16 [UnitKubra.PageObject.Enbridge] [INFO] [_ApplicationsLinkButton] - User clicks the applications link
+05-May-2021-23:57:35 [UnitKubra.PageObject.Enbridge] [INFO] [_AdminConsoleLink] - User clicks the adminconsole link
+05-May-2021-23:57:43 [UnitKubra.PageObject.Enbridge] [INFO] [_UserLinkInAdminConsole] - User clicks the User link
+05-May-2021-23:57:43 [UnitKubra.PageObject.Enbridge] [INFO] [_SearchButtonInUserLink] - User clicks the Search link
+05-May-2021-23:58:23 [UnitKubra.PageObject.Enbridge] [ERROR] [_DatatablePresent] - Datatable is not present
+05-May-2021-23:58:23 [UnitKubra.PageObject.Enbridge] [INFO] [_CloseAdminConsoleWindow] - Admin Console window is closed
+05-May-2021-23:58:26 [UnitKubra.PageObject.Enbridge] [INFO] [NavigateToBackToEnbridgeApplicationsPage] - User is navigated back to the Applications Page
