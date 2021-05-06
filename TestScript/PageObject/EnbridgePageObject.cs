@@ -30,7 +30,7 @@ namespace UnitKubra.TestScript.PageObject
         public void TestPage()
         {
             
-            string xlPath = @"C:\Users\prade\source\Workspaces\Apply\chaaruPradeep\UnitKubra\ExcelReader\kubra.xlsx";
+            string xlPath = @"C:\Users\prade\source\Workspaces\Apply\UnitKubra\ExcelReader\kubra.xlsx";
             NavigationHelper.NavigateToUrl((string)ExcelReaderHelper.GetCellData(xlPath, "Sheet1", 1, 0));
             Enbridge enbridge = new Enbridge(ObjectRepository.driver);
            
